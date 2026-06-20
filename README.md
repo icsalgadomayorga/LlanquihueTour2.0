@@ -23,9 +23,9 @@ LlanquihueTour
 │
 │
 └── src
+│    ├── app
 │    ├── data
-│    ├── model
-│    └── main
+│    └── model
 │
 ├── Resources
 │   └── empleados.txt

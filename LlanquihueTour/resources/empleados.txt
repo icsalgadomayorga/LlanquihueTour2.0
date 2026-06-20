@@ -1,0 +1,5 @@
+Juan Soto;15.987.654-3;Baquedano 931;Llanquihue;Los Lagos;Guía Turístico;950.000
+Ana Gómez;18.456.789-0;Montt 90;Llanquihue;Los Lagos;Coordinadora de Tours;1.200.000
+Esteban Muñoz;17.123.456-7;Errazuriz 206;Llanquihue;Los Lagos;Chofer;850.000
+Ernestina Torres;17.890.576-5;Av Los Ríos 321;Llanquihue;Los Lagos;Contadora;1.000.000
+Carlos Muñoz;15.253.861-4;Ruta 5 Sur Km 1000;Puerto Montt;Los Lagos;Gerente;1.800.000
